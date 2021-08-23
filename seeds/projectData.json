@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Travel Blog Post 1",
+    "description": "all about a trip to Yellowstone",
+    "needed_funding": 5000
+  },
+  {
+    "name": "Travel Blog Post 2",
+    "description": "how to prepare for a Scandanavian summer vacation",
+    "needed_funding": 10000
+  },
+  {
+    "name": "Travel Blog Post 3",
+    "description": "crack some coconuts in Cabo",
+    "needed_funding": 800
+  }
+]

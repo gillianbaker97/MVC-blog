@@ -17,7 +17,7 @@ Blogs.init(
     },
     starting_date: {
       type: DataTypes.DATE,
-      allowNull: false,
+      allowNull: true,
     },
   },
   {
